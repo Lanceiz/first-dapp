@@ -1,0 +1,25 @@
+  body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+  }
+
+  div {
+    width: 20%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+  }
+
+  input{
+    padding: 1rem;
+  }
+
+  button {
+    width: 100%;
+    margin: 10px 0px 5px 0px;
+    border-radius: 1rem;
+    padding: 1rem;
+    color: white;
+    background-color: #219ebc;
+  }
